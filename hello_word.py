@@ -1,2 +1,2 @@
 print("mi primer programa")
-print("hola")
+print("chanchito feliz")
